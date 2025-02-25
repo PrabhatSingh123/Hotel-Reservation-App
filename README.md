@@ -14,11 +14,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
 
 ### `npm run eject`
 
@@ -89,7 +84,7 @@ Ensure you have the following installed:
 ### Steps to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/hotel-reservation-app.git
+   git clone https://github.com/PrabhatSingh123/Hotel-Reservation-App
    ```
 2. Navigate to the project folder:
    ```bash
@@ -113,6 +108,6 @@ Ensure you have the following installed:
 - Backend Addition.
 
 ## Contributors
-- Your Name (@Vidur)
+- Your Name (@Prabhat Kumar Singh)
 
 
